@@ -15,6 +15,7 @@ A catalog of offensive AI speak — the tells, tics, and turns of phrase that gi
 - "Honestly,"
 - "Fair –"
 - "Clean –"
+- "the real gate"
 
 ### Patterns
 
