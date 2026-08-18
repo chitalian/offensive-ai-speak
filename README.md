@@ -1,3 +1,5 @@
+
+
 # offensive-ai-speak
 
 Shit that AI does that is annoying and should not do but it does it anyways.
@@ -12,7 +14,7 @@ Works with Claude Code and anything else that supports the [Agent Skills](https:
 # personal (all projects)
 git clone https://github.com/chitalian/offensive-ai-speak ~/.claude/skills/avoid-ai-speak
 
-# or per-project
+# or per-project (run from the project root)
 git clone https://github.com/chitalian/offensive-ai-speak .claude/skills/avoid-ai-speak
 ```
 
