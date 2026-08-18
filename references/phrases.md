@@ -36,22 +36,23 @@ The complete list. SKILL.md has the high-frequency offenders; this file is the e
 - "As we can see" / "As mentioned earlier" / "In this section, we will" / "Let me walk you through" / "To put it simply" / "In other words"
 - "This begs the question" / "One might argue that" / "It could be suggested that"
 - "The thing worth flagging" — just flag it
-- "the smoking gun" / "the real gate" / "the real question" / "the real work"
+- "the smoking gun" / "the real gate" / "the real question" / "the real work" / "the real unlock"
 - "Where X lives" ("this is where the logic lives") — say "the logic is in X"
 - "belt and suspenders" / "belt-and-braces"
 - "I also could ..." — either do it or don't mention it
 - "Pro tip:" / "Hot take:" / "Spoiler alert:" / "Plot twist:" / "Unpopular opinion:"
 - Emphasis crutches: "Full stop." / "Period." / "Let that sink in." / "Read that again." / "Make no mistake" / "This cannot be overstated" / "Why this matters" / "The million-dollar question" / "Buckle up" / "Food for thought" / "the elephant in the room" / "it's a no-brainer"
+- "The X no one talks about"
 
 ## Hype vocabulary
 
 Tier 1, kill on sight:
 
-delve, tapestry ("rich tapestry of"), testament ("a testament to"), utilize, leverage, facilitate, elucidate, embark, endeavor, encompass, multifaceted, paradigm, synergy, holistic, catalyze, juxtapose, nuanced (as filler), realm, landscape (metaphorical), myriad, plethora, kaleidoscope, symphony
+delve, tapestry ("rich tapestry of"), testament ("a testament to"), utilize, leverage, facilitate, elucidate, embark, endeavor, encompass, multifaceted, paradigm, synergy, holistic, catalyze, juxtapose, nuanced (as filler), realm, landscape (metaphorical), myriad, plethora, kaleidoscope, symphony, seam (meaning boundary), smoke test, load-bearing
 
 Tier 2, suspicious in clusters:
 
-robust, comprehensive, seamless, cutting-edge, innovative, streamline, empower, foster, enhance, elevate, optimize, scalable, pivotal, intricate, profound, resonate, underscore, harness, navigate (metaphorical), cultivate, bolster, galvanize, cornerstone, game-changer, garner, interplay, meticulous(ly), vibrant, enduring, burgeoning, ubiquitous, paramount, crucial, vital, boasts, unlock, unleash, unveil, uncover, supercharge, skyrocket, revolutionize, transformative, groundbreaking, seminal, trailblazing, deep dive, secret sauce, double-edged sword, "sheds light on", "strikes a balance", "paints a picture", "evolving landscape", "at the intersection of"
+robust, comprehensive, seamless, cutting-edge, innovative, streamline, empower, foster, enhance, elevate, optimize, scalable, pivotal, intricate, profound, resonate, underscore, harness, navigate (metaphorical), cultivate, bolster, galvanize, cornerstone, game-changer, garner, interplay, meticulous(ly), vibrant, enduring, burgeoning, ubiquitous, paramount, crucial, vital, boasts, unlock, unleash, unveil, uncover, supercharge, skyrocket, revolutionize, transformative, groundbreaking, seminal, trailblazing, deep dive, secret sauce, double-edged sword, "sheds light on", "strikes a balance", "paints a picture", "evolving landscape", "at the intersection of", anchor (verb), quietly/silently, cleanly
 
 Stiff connectives: aforementioned, henceforth, whereby, therein, notwithstanding, "pertaining to", subsequently
 
